@@ -1,0 +1,7 @@
+Fabio Alves | fabioalves101@gmail.com | http://blog.gamezombie.com.br | @fabioperalves
+
+A mini-framework written in PHP by @fabioperalves to simplify the twitter login with OAuth 1.0A.
+
+Disclaimer: This project is a work in progress and may contain bugs.
+
+It uses the Abraham Williams oauth's library. For more information about the Abraham Williams' library: https://github.com/abraham/twitteroauth
